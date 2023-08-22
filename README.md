@@ -1,5 +1,5 @@
-#### Software Development
-![Software Development](https://media.licdn.com/dms/image/D4D12AQHdXamQbKew8A/article-cover_image-shrink_423_752/0/1687480733561?e=1698278400&v=beta&t=hIzesFd1_ZKnoeM9kLtO7nYhX9Z2_jcQVFX9XaM15x0)
+#### FullStack Software Developer
+![FullStack Software Developer](https://media.licdn.com/dms/image/D4D12AQHdXamQbKew8A/article-cover_image-shrink_423_752/0/1687480733561?e=1698278400&v=beta&t=hIzesFd1_ZKnoeM9kLtO7nYhX9Z2_jcQVFX9XaM15x0)
 
 ## Oluwasegun Ogunniyi
 I'm Oluwasegun from Nigeria, and I do web Design and Development. I really enjoy learning languages and framework like React, Flask and Django, as well as work in wordPress
