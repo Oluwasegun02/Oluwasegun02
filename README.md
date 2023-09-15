@@ -11,9 +11,10 @@ I'm Oluwasegun from Nigeria, and I do web Design and Development. I really enjoy
 - 👓 C Language
 - 🐍 Python
 - 🔌 Node js, Express
--  🔒 Sql, Mongo
+- 🖥  Django, Flask
+- 🔒 Sql, Mongodb
 ## Current About
-- 🔭 I’m currently working on ALX tasks and PicView Website 
+- 🔭 I’m currently working on ALX tasks and E-commerce Website 
 - 🌱 I’m currently learning Software Engineer  at ALX
 - 📫 How to reach me whatapp 09069791813,
 - 
