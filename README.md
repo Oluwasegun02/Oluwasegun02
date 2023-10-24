@@ -1,6 +1,5 @@
 #### FullStack Software Developer
-![FullStack Software Developer](https://media.licdn.com/dms/image/D4D12AQHdXamQbKew8A/article-cover_image-shrink_423_752/0/1687480733561?e=1698278400&v=beta&t=hIzesFd1_ZKnoeM9kLtO7nYhX9Z2_jcQVFX9XaM15x0)
-![Uploading image.png…]()
+![FullStack Software Developer](https://github.com/Oluwasegun02/web-designer-portfolio/blob/569581c01b3b46bfeb93db3a0605e4e3bd32e2e5/img/portfolio.png)
 
 
 ## Oluwasegun Ogunniyi
