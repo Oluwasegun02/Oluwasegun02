@@ -16,10 +16,10 @@ I'm Oluwasegun from Nigeria, and I do web Design and Development. I really enjoy
 - 🖥  Django, Flask
 - 🔒 Sql, Mongodb
 ## Current About
-- 🔭 I’m currently working as Freelance and Visual Basic Project 
+- 🔭 I’m currently working as Freelance and ASF platform using React/Express Node Project 
 - 🌱 I’m currently learning Computer Science at OAUSTECH 
-- 📫 How to reach me whatapp 09069791813,
-- 
+- 📫 How to reach me whatapp 09058421038,
+-  Word Doc and Excel with PowerPoint slide
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oluwasegun02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oluwasegun-adegboyega-286874234/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/adebayoogunniyi8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AdebayoOgunniy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.replit.com/@AdebayoOgunniyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://oluwasegunogunniyi.me/#)  
 
 
